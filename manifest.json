@@ -1,0 +1,44 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-telegram-module",
+  "versions": [
+    {
+      "commit": "a8e8d662fd4faca68d0f5b7a27186d5445ae535a",
+      "parsed_at": "2026-09-27T19:47:52.385231+00:00",
+      "tag": "0.0.3",
+      "filetree": "filetree/a8e8d662fd4faca68d0f5b7a27186d5445ae535a.nq.gz",
+      "blobs": [
+        "blob/2fa3bbf1fe5f7be3f38806f19c9b23c7ce10a6de.nq.gz",
+        "blob/dc75511c29cbba83faa4539565efc4cdd0e66702.nq.gz",
+        "blob/50ac667f7af2c0bc6b400c19fa1ec62ed076dbb0.nq.gz",
+        "blob/90fe8c9cd2c6b23f6d7e4cf013fddea00f77197a.nq.gz",
+        "blob/f06390fe06caa951ead481b062cb7a10769d4815.nq.gz",
+        "blob/bcab45af15a0f1b0166daf8cbf18b17cd8649277.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/cf42f6893594e2f8be2b722de51123d65e4d61c4.nq.gz",
+        "blob/9c558e357c41674e39880abb6c3209e539de42e2.nq.gz",
+        "blob/752679f4ac7394215f21b3f587789e002a0fd4f3.nq.gz",
+        "blob/75e3b65f99b29f48ab230e3eab3de8d0b7a9229f.nq.gz",
+        "blob/7f60b03d440f5e965d54f58e4e8e68fbf0abc09b.nq.gz",
+        "blob/5f5cf896c81688e4360b37f1bcda92f7bc6f7423.nq.gz",
+        "blob/63fdd52957d7418fe0a5515ee337523dd07c5de4.nq.gz",
+        "blob/88ede0b6c3d0ee68688940cb6f575e3728652a9e.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/2010ffe2bd517131a8f610125a69425d2c4491e2.nq.gz",
+        "blob/cc8ba103fcc456c60baced7776eadbbfcd47fbe2.nq.gz",
+        "blob/2391f73aa051d3804285ce744f2e9a1c7e08993d.nq.gz",
+        "blob/5dc50bcc4043313cb30c4702b021d658692f3cd0.nq.gz",
+        "blob/f8268bbea008c201341f5e4b02249abae8de2242.nq.gz",
+        "blob/af9908b08f4b33c32a0080af73f53bc0fa0cdce4.nq.gz",
+        "blob/4115f586ac0fffeb0b8eeb638de8ee6c790755cb.nq.gz",
+        "blob/50ce4ffc99f4f3aca9546b45c5293cacde15f7f2.nq.gz",
+        "blob/bccde52db3f3259f931a8fea887222d5e64fab0b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
