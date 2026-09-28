@@ -37,6 +37,234 @@
       ],
       "ast": [
         "aggregate/ast/a8e8d662fd4faca68d0f5b7a27186d5445ae535a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a8e8d662fd4faca68d0f5b7a27186d5445ae535a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.21",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3df82e987f30ab589274c6102831086fc03eb1fa",
+          "githubTag": "25.0.0-dev.21",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "jq",
+          "ecosystem": "CARGO",
+          "version": "0.1",
+          "githubOrg": "dryrust",
+          "githubRepo": "jq.rs",
+          "githubUrl": "https://github.com/dryrust/jq.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "miette",
+          "ecosystem": "CARGO",
+          "version": "7.6",
+          "githubOrg": "zkat",
+          "githubRepo": "miette",
+          "githubUrl": "https://github.com/zkat/miette",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "oxrdf",
+          "ecosystem": "CARGO",
+          "version": "0.2.4",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubCommit": "3e05c6ef4049623e77500196b4136e25b6f7789d",
+          "githubTag": "v0.2.4",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/main/lib/oxrdf",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "oxrdfio",
+          "ecosystem": "CARGO",
+          "version": "0.1.8",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/master/lib/oxrdfxml",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tdlib-rs",
+          "ecosystem": "CARGO",
+          "version": "1.4.0",
+          "githubOrg": "FedericoBruzzone",
+          "githubRepo": "tdlib-rs",
+          "githubCommit": "73f220ae28dfd612e1e6ca6f9adfb4b69d411477",
+          "githubTag": "v1.4.0",
+          "githubUrl": "https://github.com/FedericoBruzzone/tdlib-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tokio",
+          "ecosystem": "CARGO",
+          "version": "1.45",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tracing",
+          "ecosystem": "CARGO",
+          "version": "0.1.41",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubCommit": "0ca78870815a34a345a908f48db057057e8803d2",
+          "githubTag": "tracing-0.1.41",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tracing-subscriber",
+          "ecosystem": "CARGO",
+          "version": "0.3.20",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubUrl": "https://github.com/tokio-rs/tracing",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures",
+          "ecosystem": "CARGO",
+          "version": "0.3.31",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "1e052816b09890925cfdfcbe8d390cdaae5e4c38",
+          "githubTag": "0.3.31",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "async-stream",
+          "ecosystem": "CARGO",
+          "version": "0.3.6",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "async-stream",
+          "githubCommit": "b0b2f22df8e87b7fed7b2fa234509797adbff7db",
+          "githubTag": "v0.3.6",
+          "githubUrl": "https://github.com/tokio-rs/async-stream",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "keyring",
+          "ecosystem": "CARGO",
+          "version": "2.3",
+          "githubOrg": "open-source-cooperative",
+          "githubRepo": "keyring-rs",
+          "githubUrl": "https://github.com/open-source-cooperative/keyring-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hex",
+          "ecosystem": "CARGO",
+          "version": "0.4",
+          "githubOrg": "KokaKiwi",
+          "githubRepo": "rust-hex",
+          "githubUrl": "https://github.com/KokaKiwi/rust-hex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "url",
+          "ecosystem": "CARGO",
+          "version": "2.5.4",
+          "githubOrg": "servo",
+          "githubRepo": "rust-url",
+          "githubCommit": "d77dfb467f8dd0c1fa181b3dfbc46e7cbe252021",
+          "githubTag": "v2.5.4",
+          "githubUrl": "https://github.com/servo/rust-url",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "obfstr",
+          "ecosystem": "CARGO",
+          "version": "0.4.4",
+          "githubOrg": "CasualX",
+          "githubRepo": "obfstr",
+          "githubCommit": "5431a54f8bcdeb5b7ab0f635f347d64f51cc6837",
+          "githubTag": "v0.4.4",
+          "githubUrl": "https://github.com/CasualX/obfstr",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand_core",
+          "ecosystem": "CARGO",
+          "version": "0.6.4",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand_core",
+          "githubCommit": "89a1336b934c68ddce548127c6f8afd910b35a18",
+          "githubTag": "v0.6.4",
+          "githubUrl": "https://github.com/rust-random/rand_core",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.6.4/src/os.rs"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        },
+        {
+          "packageName": "getenv",
+          "ecosystem": "CARGO",
+          "version": "0.1.2",
+          "githubOrg": "dryrust",
+          "githubRepo": "getenv.rs",
+          "githubCommit": "6fafcf5587045ec427a804d3ea3da9b63e0605dd",
+          "githubTag": "0.1.2",
+          "githubUrl": "https://github.com/dryrust/getenv.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getenv-0.1.2/src/varsets/windows.rs"
+        }
       ]
     }
   ],
